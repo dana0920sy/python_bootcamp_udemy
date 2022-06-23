@@ -1,5 +1,6 @@
 ID,Product Name,Quantity,Unit Price
+1,Potion,10,100
 2,Elixir,10,700
 3,Ether,10,200
-4,Kingdom Key,20,800.0
-5,apples2,10,200.0
+4,Keyblade,1,5000.0
+5,Hi-Potion,10,500.0
